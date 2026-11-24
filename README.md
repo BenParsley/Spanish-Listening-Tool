@@ -3,6 +3,7 @@
 A Chrome Extension that provides instant Spanish → English translation via a floating panel with audio playback.
 
 ![demo](screenshots/demo.gif)
+*Audio cannot be included in the gif, audio playback automatically starts, and clicking on individual words plays audio just for that*
 
 ## Features
 
