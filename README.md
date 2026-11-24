@@ -1,4 +1,4 @@
-# Spanish-Pronunciation-Tool
+# Spanish-Listening-Tool
 
 A Chrome Extension that provides instant Spanish → English translation via a floating panel with audio playback.
 
